@@ -1,0 +1,15 @@
+{
+  "name": "project-management",
+  "version": "0.1.0",
+  "description": "This is a project management system to handle students final projects",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.15",
+    "express": "^4.13.4"
+  }
+}
