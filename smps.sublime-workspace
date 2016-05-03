@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cals",
+				"calsEaten"
+			],
+			[
+				"cal",
+				"calsPerServing"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/ws/spms"
+	],
+	"file_history":
+	[
+		"/C/Users/Anthony/Documents/js projects/helloNodeJs.js",
+		"/C/Users/Anthony/Documents/cppProjects/test.cpp",
+		"/C/Users/Anthony/AppData/Roaming/Sublime Text 3/Packages/User/cpp_build.sublime-build",
+		"/C/Users/Anthony/AppData/Roaming/Sublime Text 3/Packages/User/node_build.sublime-build",
+		"/E/classSort.cpp",
+		"/E/ticket scan.cpp",
+		"/C/Users/Anthony/Documents/cpp_projects/lec5.cpp",
+		"/C/Users/Anthony/Documents/cpp_projects/lec5_ex1.cpp",
+		"/C/Users/Anthony/Documents/cpp_projects/template_1.cpp",
+		"/C/Users/Anthony/Downloads/TicTacToe (1).cpp",
+		"/C/Users/Anthony/Downloads/tic tac toe project (5).cpp",
+		"/C/Users/Anthony/Downloads/tic tac toe project (4).cpp",
+		"/C/Users/Anthony/Downloads/TicTacToe Game.cpp",
+		"/C/Users/Anthony/Downloads/mpg.cpp",
+		"/C/Users/Anthony/Downloads/mpg (1).cpp",
+		"/C/Users/Anthony/Downloads/mpg (2).cpp",
+		"/C/Users/Anthony/Downloads/lab3_1.cpp",
+		"/C/Users/Anthony/Downloads/Game.cpp",
+		"/C/Users/Anthony/Downloads/main (1).cpp",
+		"/C/Users/Anthony/Downloads/main (2).cpp",
+		"/C/Users/Anthony/Downloads/SUM.cpp",
+		"/C/Users/Anthony/Downloads/main (3).cpp",
+		"/C/Users/Anthony/Downloads/main (4).cpp",
+		"/C/Users/Anthony/Downloads/main (5).cpp",
+		"/C/Users/Anthony/Downloads/lab3-2.cpp",
+		"/C/Users/Anthony/Downloads/denislab1.cpp",
+		"/C/Users/Anthony/Downloads/Treasure_Hunt.cpp",
+		"/C/Users/Anthony/Downloads/treasuDiegoPinto.cpp",
+		"/C/Users/Anthony/Desktop/alberto.cpp",
+		"/C/Users/Anthony/Downloads/tic tac toe project.cpp",
+		"/C/Users/Anthony/Downloads/TicTacToe.cpp",
+		"/C/Users/Anthony/Downloads/main.cpp",
+		"/C/Users/Anthony/Downloads/tic tac toe project (3).cpp",
+		"/C/Users/Anthony/Desktop/delete.cpp",
+		"/C/Users/Anthony/Downloads/Source (1) (1).cpp",
+		"/C/Users/Anthony/Downloads/Source (1).cpp",
+		"/C/Users/Anthony/Downloads/tic tac toe project (1).cpp"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i",
+			"odd number",
+			"board"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 234.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cpp_build.sublime-build",
+	"project": "smps.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
